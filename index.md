@@ -1,4 +1,4 @@
-
+<head>
 <title>Tools</title>
 <meta name='description' content='Just my tools'>
 <meta name='keywords' content=''>
@@ -45,6 +45,7 @@
 
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+</head>
 
 ## Tools you need
 **This will be useful for making your site and docs.**
